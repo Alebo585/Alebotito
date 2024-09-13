@@ -4,16 +4,15 @@
 
 
 <a
-href="https://wa.me/+51907376960" target="white"><img src="https://img.shields.io/badge/☄️-Prueba la IA por tiempo limitado-000000?style=for-the-badge&logo=whatsapp&logoColor=black" /></a>
+href="https://wa.me/+573154014439" target="white"><img src="https://img.shields.io/badge/☄️-Prueba la IA por tiempo limitado-000000?style=for-the-badge&logo=whatsapp&logoColor=black" /></a>
 
 <p align="center">
-<img src="https://telegra.ph/file/5a2eb62dca1eafb952f31.jpg" alt="SonGOKU" width="900"/>
+<img src="https://telegra.ph/file/5a2eb62dca1eafb952f31.jpg" alt="gokuale" width="900"/>
 </p>
 <a href="https://x.com/ZxYerSixZx" target="black"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=back" />
 <a href="https://www.facebook.com/profile.php?id=10008861448&mibextid=ZbWKwL" target="black"><img src="https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=back" />
 <a
-href="https://www.paypal.com/paypalme/YerSix" target="black"><img
-src="https://img.shields.io/badge/PayPal-000000?style=for-the-badge&logo=paypal&logoColor=white" />
+
 <a href="https://www.instagram.com/yer29_07?igsh=eGN1cWk5MmFkbWM1" target="black"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=back" />
 <p align="center">
 <a href="#"><img title="FantasyBot-MD" src="https://img.shields.io/badge/𝐒𝐈 𝐓𝐄 𝐀𝐆𝐑𝐀𝐃𝐀 𝐄𝐋 𝐑𝐄𝐏𝐎𝐒𝐈𝐓𝐎𝐑𝐈𝐎 𝐌𝐄 𝐀𝐏𝐎𝐘𝐀𝐑𝐈𝐀𝐒 𝐂𝐎𝐍 𝐔𝐍𝐀 🌟-¡GRACIAS! -red?colorA=%255ff0000&colorB=%23017e40&style=for-the-badge"></a> 
@@ -85,7 +84,7 @@ href="https://whatsapp.com/channel/0029Vaj67qQJUM2Wa5Ey3y1v" target="white"><img
      `matias-crypto]27/08/2024`
 
 
-✨'' ALOJAMIENTO DE SON GOKU''' ✨
+✨'' ALOJAMIENTO DE gokuale''' ✨
                 
 
 En esos hostig puede obtener el bot SonGoku para que use para su grupo de WhatsApp o para su uso personal⤵️
@@ -103,12 +102,12 @@ Un hosting es un servicio de alojamiento web que te permite publicar un sitio we
 - **Dashboard:** [`Aquí`](https://dash.corinplus.com)
 - **Panel:** [`Aquí`](https://ctrl.corinplus.com)
 - **Estado de servicios:** [`Aquí`](https://status.corinplus.com)
-- **Canal de WhatsApp:** [`Aquí`](https://whatsapp.com/channel/0029VakUvreFHWpyWUr4Jr0g)
+- **Canal de WhatsApp:** [`Aquí`](https://whatsapp.com/channel/0029VaoeMVV7z4kid70oDZ2M)
 - **Grupo - Soporte:** [`Aquí`](https://chat.whatsapp.com/K235lkvaGvlGRQKYm26xZP)
 - **Contacto:** [`Support-CorinPlus Host`](https://wa.me/message/B3KTM5XN2JMRD1)
 - **Contacto:** [`elrebelde21`](https://facebook.com/elrebelde21)
 
-- [x] **Configuración** <details><summary>**Ajustes del Servidor - SonGoku🐉**</summary><img src="https://telegra.ph/file/4d4f5aa6c5853ab7ffbfa.jpg"></details>
+- [x] **Configuración** <details><summary>**Ajustes del Servidor - gokuale🐉**</summary><img src="https://telegra.ph/file/4d4f5aa6c5853ab7ffbfa.jpg"></details>
 
 
 
@@ -118,6 +117,6 @@ Un hosting es un servicio de alojamiento web que te permite publicar un sitio we
 
 - **💻Dash:** [`Aquí`](https://store.azuraultra-host.pro/home)
 - **Panel:** [`Aquí`](https://control.azuraultra-host.pro/)
-- **Grupo - Soporte:** [`Aquí`](https://chat.whatsapp.com/KhcwE17XcalGuMwS4Tc2L0)
+- **Grupo - Soporte:** [`Aquí`](https)
 
 
